@@ -1,6 +1,6 @@
-# NNFromScratch
+# DLFromScratch
 
-A neural network library mockup implemented from scratch in python, with numpy being the only library used. The code implements the forward pass and backward error propagation methods for:
+A deep learning library mockup implemented from scratch in python, with numpy being the only library used. The code implements the forward pass and backward error propagation methods for:
 
 2 Types of Layers:
 1. Dense Layer
