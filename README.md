@@ -1,4 +1,4 @@
-# DLFromScratch
+# DeepLume
 
 A deep learning library mockup implemented from scratch in python, with numpy being the only library used. The code implements the forward pass and backward error propagation methods for:
 
